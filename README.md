@@ -1,6 +1,6 @@
 # demo-auth-flow
 
-This project is a simple implementation of a Codat custom-built [auth flow]([https://docs.codat.io/docs/auth-flow](https://docs.codat.io/auth-flow/build/build-your-own-authorization-journey)), enabling your customers to connect their financial accounts. You can experience the demo [here](https://codat-dev-link-demo.azurewebsites.net/home).
+This project is a simple implementation of a Codat custom-built [auth flow]([https://docs.codat.io/docs/auth-flow](https://docs.codat.io/auth-flow/build/build-your-own-authorization-journey)), enabling your customers to connect their financial accounts. You can experience the demo [here](https://link-demo.codat.io/).
 
 We recommend, where possible, using our [Embedded Link SDK](https://docs.codat.io/auth-flow/authorize-embedded-link).
 
